@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Building scalable full-stack applications with React/Next.js on the frontend and Node.js + PostgreSQL on the backend, and shipping real products.<br><br>👯 I’m looking to collaborate on  <br>Open-source projects, startup ideas, and hackathon teams focused on Web apps, Web3 integrations, and developer tools.<br><br>🤝 I’m looking for help with  <br>System design, performance optimization, and writing clean, maintainable code for larger codebases.<br><br>🌱 I’m currently learning  <br>Advanced React patterns, backend architecture, cloud deployment, and exploring Web3 development.<br><br>💬 Ask me about  <br>Building full-stack projects, React performance, REST APIs, PostgreSQL design, and getting started with hackathons.<br><br>⚡ Fun fact  <br>I started my journey by building tiny JS games and now I ship full-stack apps used by real users 🚀<br>
+# Hey Guyzz
+Hi there 👋<br><br>Welcome to my GitHub profile! I'm Lakshit Nirwan, a student at VIT (Vellore Institute of Technology), passionate about coding and technology.<br><br>🚀 About Me<br>🌟 Name: Lakshit<br>🎓 University: VIT (Vellore Institute of Technology)<br>📚 Field of Study: [Computer Science and Engineering]<br>💻 Interests: Software Development, Data Science, Web Development <br><br>
+
+🔭I’m currently learning  
+Advanced React patterns, backend architecture, cloud deployment, and exploring Web3 development.<br><br>👯 I’m looking to collaborate on  <br>Open-source projects, startup ideas, and hackathon teams focused on Web apps, Web3 integrations, and developer tools.<br><br>🤝 I’m looking for help with  <br>System design, performance optimization, and writing clean, maintainable code for larger codebases.<br><br>💬 Ask me about  <br>Building full-stack projects, React performance, REST APIs, PostgreSQL design, and getting started with hackathons.<br><br>⚡ Fun fact  <br>I started my journey by building tiny JS games and now I ship full-stack apps used by real users 🚀<br>
 
 
 ## 🌐 Socials:
