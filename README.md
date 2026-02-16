@@ -1,9 +1,8 @@
-# Hey Guyzz
-Hi there 👋<br><br>Welcome to my GitHub profile! I'm Lakshit Nirwan, a student at VIT (Vellore Institute of Technology), passionate about coding and technology.<br><br>🚀 About Me<br>🌟 Name: Lakshit<br>🎓 University: VIT (Vellore Institute of Technology)<br>📚 Field of Study: [Computer Science and Engineering]<br>💻 Interests: Software Development, Data Science, Web Development <br><br>
+# Hey Guyzz👋
+Welcome to my GitHub profile! I'm Lakshit Nirwan, a student at VIT (Vellore Institute of Technology), passionate about coding and technology.<br><br>🚀 About Me<br>🌟 Name: Lakshit<br>🎓 University: VIT (Vellore Institute of Technology)<br>📚 Field of Study: [Computer Science and Engineering]<br>💻 Interests: Software Development, Data Science, Web Development <br><br>
 
 🔭I’m currently learning  
 Advanced React patterns, backend architecture, cloud deployment, and exploring Web3 development.<br><br>👯 I’m looking to collaborate on  <br>Open-source projects, startup ideas, and hackathon teams focused on Web apps, Web3 integrations, and developer tools.<br><br>🤝 I’m looking for help with  <br>System design, performance optimization, and writing clean, maintainable code for larger codebases.<br><br>💬 Ask me about  <br>Building full-stack projects, React performance, REST APIs, PostgreSQL design, and getting started with hackathons.<br><br>⚡ Fun fact  <br>I started my journey by building tiny JS games and now I ship full-stack apps used by real users 🚀<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daal_batti_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshit-nirwan-731578321) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LakshitNirwan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshitnirwan5@gmail.com) 
