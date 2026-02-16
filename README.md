@@ -1,4 +1,4 @@
-# Hey Guyzz👋
+# About Me
 Welcome to my GitHub profile! I'm Lakshit Nirwan, a student at VIT (Vellore Institute of Technology), passionate about coding and technology.<br><br>🚀 About Me<br>🌟 Name: Lakshit<br>🎓 University: VIT (Vellore Institute of Technology)<br>📚 Field of Study: [Computer Science and Engineering]<br>💻 Interests: Software Development, Data Science, Web Development <br><br>
 
 🔭I’m currently learning  
